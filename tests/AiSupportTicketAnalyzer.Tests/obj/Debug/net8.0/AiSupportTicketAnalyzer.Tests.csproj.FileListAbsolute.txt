@@ -114,3 +114,4 @@ C:\Users\ankit.jain\source\git\ai-support-ticket-analyzer\tests\AiSupportTicketA
 C:\Users\ankit.jain\source\git\ai-support-ticket-analyzer\tests\AiSupportTicketAnalyzer.Tests\bin\Debug\net8.0\AiSupportTicketAnalyzer.Api.pdb
 C:\Users\ankit.jain\source\git\ai-support-ticket-analyzer\tests\AiSupportTicketAnalyzer.Tests\bin\Debug\net8.0\Castle.Core.dll
 C:\Users\ankit.jain\source\git\ai-support-ticket-analyzer\tests\AiSupportTicketAnalyzer.Tests\bin\Debug\net8.0\Moq.dll
+C:\Users\ankit.jain\source\git\ai-support-ticket-analyzer\tests\AiSupportTicketAnalyzer.Tests\obj\Debug\net8.0\AiSupportTicketAnalyzer.Tests.sourcelink.json

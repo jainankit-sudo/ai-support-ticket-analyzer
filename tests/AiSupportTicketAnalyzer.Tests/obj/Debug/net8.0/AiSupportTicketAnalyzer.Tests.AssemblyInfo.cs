@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AiSupportTicketAnalyzer.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72f7a955fc428bf1a3d1c059bfe8acac0ab2b014")]
 [assembly: System.Reflection.AssemblyProductAttribute("AiSupportTicketAnalyzer.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AiSupportTicketAnalyzer.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
