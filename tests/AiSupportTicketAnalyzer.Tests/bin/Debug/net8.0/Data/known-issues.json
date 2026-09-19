@@ -1,0 +1,23 @@
+[
+    {
+        "id": "KI-001",
+        "title": "Webhook creation returns HTTP 500",
+        "product": "Webhook API",
+        "description": "Webhook creation can fail when the callback URL does not use HTTPS.",
+        "resolution": "Verify that the webhook callback URL uses HTTPS and retry the request."
+    },
+    {
+        "id": "KI-002",
+        "title": "Webhook delivery failures",
+        "product": "Webhook API",
+        "description": "Webhook deliveries may fail when the customer endpoint returns HTTP 4xx or 5xx responses.",
+        "resolution": "Check the customer endpoint response and verify that the endpoint is accepting webhook requests."
+    },
+    {
+        "id": "KI-003",
+        "title": "Authentication failure after API upgrade",
+        "product": "API",
+        "description": "API authentication can fail after an integration upgrade when an outdated authentication mechanism is still being used.",
+        "resolution": "Verify that the integration is using the current authentication mechanism and credentials."
+    }
+]

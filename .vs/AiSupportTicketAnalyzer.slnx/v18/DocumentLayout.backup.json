@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ankit.jain\\source\\git\\ai-support-ticket-analyzer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D88DFC9-3B32-B765-05AD-2CE59C6F7C9F}|tests\\AiSupportTicketAnalyzer.Tests\\AiSupportTicketAnalyzer.Tests.csproj|c:\\users\\ankit.jain\\source\\git\\ai-support-ticket-analyzer\\tests\\aisupportticketanalyzer.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D88DFC9-3B32-B765-05AD-2CE59C6F7C9F}|tests\\AiSupportTicketAnalyzer.Tests\\AiSupportTicketAnalyzer.Tests.csproj|solutionrelative:tests\\aisupportticketanalyzer.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D43BD8-06A8-1A33-CCBC-82E4F44335A2}|src\\AiSupportTicketAnalyzer.Api\\AiSupportTicketAnalyzer.Api.csproj|c:\\users\\ankit.jain\\source\\git\\ai-support-ticket-analyzer\\src\\aisupportticketanalyzer.api\\data\\knownissuerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D43BD8-06A8-1A33-CCBC-82E4F44335A2}|src\\AiSupportTicketAnalyzer.Api\\AiSupportTicketAnalyzer.Api.csproj|solutionrelative:src\\aisupportticketanalyzer.api\\data\\knownissuerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\18\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D88DFC9-3B32-B765-05AD-2CE59C6F7C9F}|tests\\AiSupportTicketAnalyzer.Tests\\AiSupportTicketAnalyzer.Tests.csproj|c:\\users\\ankit.jain\\source\\git\\ai-support-ticket-analyzer\\tests\\aisupportticketanalyzer.tests\\aisupportticketanalyzer.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4D88DFC9-3B32-B765-05AD-2CE59C6F7C9F}|tests\\AiSupportTicketAnalyzer.Tests\\AiSupportTicketAnalyzer.Tests.csproj|solutionrelative:tests\\aisupportticketanalyzer.tests\\aisupportticketanalyzer.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D43BD8-06A8-1A33-CCBC-82E4F44335A2}|src\\AiSupportTicketAnalyzer.Api\\AiSupportTicketAnalyzer.Api.csproj|c:\\users\\ankit.jain\\source\\git\\ai-support-ticket-analyzer\\src\\aisupportticketanalyzer.api\\ai\\aiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D43BD8-06A8-1A33-CCBC-82E4F44335A2}|src\\AiSupportTicketAnalyzer.Api\\AiSupportTicketAnalyzer.Api.csproj|solutionrelative:src\\aisupportticketanalyzer.api\\ai\\aiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D43BD8-06A8-1A33-CCBC-82E4F44335A2}|src\\AiSupportTicketAnalyzer.Api\\AiSupportTicketAnalyzer.Api.csproj|c:\\users\\ankit.jain\\source\\git\\ai-support-ticket-analyzer\\src\\aisupportticketanalyzer.api\\ai\\ollamamodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D43BD8-06A8-1A33-CCBC-82E4F44335A2}|src\\AiSupportTicketAnalyzer.Api\\AiSupportTicketAnalyzer.Api.csproj|solutionrelative:src\\aisupportticketanalyzer.api\\ai\\ollamamodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D43BD8-06A8-1A33-CCBC-82E4F44335A2}|src\\AiSupportTicketAnalyzer.Api\\AiSupportTicketAnalyzer.Api.csproj|c:\\users\\ankit.jain\\source\\git\\ai-support-ticket-analyzer\\src\\aisupportticketanalyzer.api\\data\\known-issues.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F2D43BD8-06A8-1A33-CCBC-82E4F44335A2}|src\\AiSupportTicketAnalyzer.Api\\AiSupportTicketAnalyzer.Api.csproj|solutionrelative:src\\aisupportticketanalyzer.api\\data\\known-issues.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D43BD8-06A8-1A33-CCBC-82E4F44335A2}|src\\AiSupportTicketAnalyzer.Api\\AiSupportTicketAnalyzer.Api.csproj|c:\\users\\ankit.jain\\source\\git\\ai-support-ticket-analyzer\\src\\aisupportticketanalyzer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D43BD8-06A8-1A33-CCBC-82E4F44335A2}|src\\AiSupportTicketAnalyzer.Api\\AiSupportTicketAnalyzer.Api.csproj|solutionrelative:src\\aisupportticketanalyzer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D43BD8-06A8-1A33-CCBC-82E4F44335A2}|src\\AiSupportTicketAnalyzer.Api\\AiSupportTicketAnalyzer.Api.csproj|c:\\users\\ankit.jain\\source\\git\\ai-support-ticket-analyzer\\src\\aisupportticketanalyzer.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F2D43BD8-06A8-1A33-CCBC-82E4F44335A2}|src\\AiSupportTicketAnalyzer.Api\\AiSupportTicketAnalyzer.Api.csproj|solutionrelative:src\\aisupportticketanalyzer.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D43BD8-06A8-1A33-CCBC-82E4F44335A2}|src\\AiSupportTicketAnalyzer.Api\\AiSupportTicketAnalyzer.Api.csproj|c:\\users\\ankit.jain\\source\\git\\ai-support-ticket-analyzer\\src\\aisupportticketanalyzer.api\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D43BD8-06A8-1A33-CCBC-82E4F44335A2}|src\\AiSupportTicketAnalyzer.Api\\AiSupportTicketAnalyzer.Api.csproj|solutionrelative:src\\aisupportticketanalyzer.api\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D43BD8-06A8-1A33-CCBC-82E4F44335A2}|src\\AiSupportTicketAnalyzer.Api\\AiSupportTicketAnalyzer.Api.csproj|c:\\users\\ankit.jain\\source\\git\\ai-support-ticket-analyzer\\src\\aisupportticketanalyzer.api\\models\\ticketanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D43BD8-06A8-1A33-CCBC-82E4F44335A2}|src\\AiSupportTicketAnalyzer.Api\\AiSupportTicketAnalyzer.Api.csproj|solutionrelative:src\\aisupportticketanalyzer.api\\models\\ticketanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D43BD8-06A8-1A33-CCBC-82E4F44335A2}|src\\AiSupportTicketAnalyzer.Api\\AiSupportTicketAnalyzer.Api.csproj|c:\\users\\ankit.jain\\source\\git\\ai-support-ticket-analyzer\\src\\aisupportticketanalyzer.api\\models\\supportticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D43BD8-06A8-1A33-CCBC-82E4F44335A2}|src\\AiSupportTicketAnalyzer.Api\\AiSupportTicketAnalyzer.Api.csproj|solutionrelative:src\\aisupportticketanalyzer.api\\models\\supportticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AiSupportTicketAnalyzer.Tests",
+              "DocumentMoniker": "C:\\Users\\ankit.jain\\source\\git\\ai-support-ticket-analyzer\\tests\\AiSupportTicketAnalyzer.Tests\\AiSupportTicketAnalyzer.Tests.csproj",
+              "RelativeDocumentMoniker": "tests\\AiSupportTicketAnalyzer.Tests\\AiSupportTicketAnalyzer.Tests.csproj",
+              "ToolTip": "C:\\Users\\ankit.jain\\source\\git\\ai-support-ticket-analyzer\\tests\\AiSupportTicketAnalyzer.Tests\\AiSupportTicketAnalyzer.Tests.csproj",
+              "RelativeToolTip": "tests\\AiSupportTicketAnalyzer.Tests\\AiSupportTicketAnalyzer.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-18T20:02:08.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\18\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\18\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAAYVAAAAAAAAAAAkwA0VAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-09-18T20:02:43.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\ankit.jain\\source\\git\\ai-support-ticket-analyzer\\tests\\AiSupportTicketAnalyzer.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "tests\\AiSupportTicketAnalyzer.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\ankit.jain\\source\\git\\ai-support-ticket-analyzer\\tests\\AiSupportTicketAnalyzer.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "tests\\AiSupportTicketAnalyzer.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T20:00:45.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OllamaModels.cs",
+              "DocumentMoniker": "C:\\Users\\ankit.jain\\source\\git\\ai-support-ticket-analyzer\\src\\AiSupportTicketAnalyzer.Api\\AI\\OllamaModels.cs",
+              "RelativeDocumentMoniker": "src\\AiSupportTicketAnalyzer.Api\\AI\\OllamaModels.cs",
+              "ToolTip": "C:\\Users\\ankit.jain\\source\\git\\ai-support-ticket-analyzer\\src\\AiSupportTicketAnalyzer.Api\\AI\\OllamaModels.cs",
+              "RelativeToolTip": "src\\AiSupportTicketAnalyzer.Api\\AI\\OllamaModels.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAA3wDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T19:51:48.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "known-issues.json",
+              "DocumentMoniker": "C:\\Users\\ankit.jain\\source\\git\\ai-support-ticket-analyzer\\src\\AiSupportTicketAnalyzer.Api\\Data\\known-issues.json",
+              "RelativeDocumentMoniker": "src\\AiSupportTicketAnalyzer.Api\\Data\\known-issues.json",
+              "ToolTip": "C:\\Users\\ankit.jain\\source\\git\\ai-support-ticket-analyzer\\src\\AiSupportTicketAnalyzer.Api\\Data\\known-issues.json",
+              "RelativeToolTip": "src\\AiSupportTicketAnalyzer.Api\\Data\\known-issues.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-18T19:32:51.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KnownIssueRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ankit.jain\\source\\git\\ai-support-ticket-analyzer\\src\\AiSupportTicketAnalyzer.Api\\Data\\KnownIssueRepository.cs",
+              "RelativeDocumentMoniker": "src\\AiSupportTicketAnalyzer.Api\\Data\\KnownIssueRepository.cs",
+              "ToolTip": "C:\\Users\\ankit.jain\\source\\git\\ai-support-ticket-analyzer\\src\\AiSupportTicketAnalyzer.Api\\Data\\KnownIssueRepository.cs",
+              "RelativeToolTip": "src\\AiSupportTicketAnalyzer.Api\\Data\\KnownIssueRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T19:32:25.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ankit.jain\\source\\git\\ai-support-ticket-analyzer\\src\\AiSupportTicketAnalyzer.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\AiSupportTicketAnalyzer.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\ankit.jain\\source\\git\\ai-support-ticket-analyzer\\src\\AiSupportTicketAnalyzer.Api\\appsettings.json",
+              "RelativeToolTip": "src\\AiSupportTicketAnalyzer.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-18T17:03:32.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AiService.cs",
+              "DocumentMoniker": "C:\\Users\\ankit.jain\\source\\git\\ai-support-ticket-analyzer\\src\\AiSupportTicketAnalyzer.Api\\AI\\AiService.cs",
+              "RelativeDocumentMoniker": "src\\AiSupportTicketAnalyzer.Api\\AI\\AiService.cs",
+              "ToolTip": "C:\\Users\\ankit.jain\\source\\git\\ai-support-ticket-analyzer\\src\\AiSupportTicketAnalyzer.Api\\AI\\AiService.cs",
+              "RelativeToolTip": "src\\AiSupportTicketAnalyzer.Api\\AI\\AiService.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAwwOcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T17:02:20.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TicketAnalysis.cs",
+              "DocumentMoniker": "C:\\Users\\ankit.jain\\source\\git\\ai-support-ticket-analyzer\\src\\AiSupportTicketAnalyzer.Api\\Models\\TicketAnalysis.cs",
+              "RelativeDocumentMoniker": "src\\AiSupportTicketAnalyzer.Api\\Models\\TicketAnalysis.cs",
+              "ToolTip": "C:\\Users\\ankit.jain\\source\\git\\ai-support-ticket-analyzer\\src\\AiSupportTicketAnalyzer.Api\\Models\\TicketAnalysis.cs",
+              "RelativeToolTip": "src\\AiSupportTicketAnalyzer.Api\\Models\\TicketAnalysis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T16:59:59.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TicketsController.cs",
+              "DocumentMoniker": "C:\\Users\\ankit.jain\\source\\git\\ai-support-ticket-analyzer\\src\\AiSupportTicketAnalyzer.Api\\Controllers\\TicketsController.cs",
+              "RelativeDocumentMoniker": "src\\AiSupportTicketAnalyzer.Api\\Controllers\\TicketsController.cs",
+              "ToolTip": "C:\\Users\\ankit.jain\\source\\git\\ai-support-ticket-analyzer\\src\\AiSupportTicketAnalyzer.Api\\Controllers\\TicketsController.cs",
+              "RelativeToolTip": "src\\AiSupportTicketAnalyzer.Api\\Controllers\\TicketsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwBIAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T16:53:34.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SupportTicket.cs",
+              "DocumentMoniker": "C:\\Users\\ankit.jain\\source\\git\\ai-support-ticket-analyzer\\src\\AiSupportTicketAnalyzer.Api\\Models\\SupportTicket.cs",
+              "RelativeDocumentMoniker": "src\\AiSupportTicketAnalyzer.Api\\Models\\SupportTicket.cs",
+              "ToolTip": "C:\\Users\\ankit.jain\\source\\git\\ai-support-ticket-analyzer\\src\\AiSupportTicketAnalyzer.Api\\Models\\SupportTicket.cs",
+              "RelativeToolTip": "src\\AiSupportTicketAnalyzer.Api\\Models\\SupportTicket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T16:52:33.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ankit.jain\\source\\git\\ai-support-ticket-analyzer\\src\\AiSupportTicketAnalyzer.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\AiSupportTicketAnalyzer.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\ankit.jain\\source\\git\\ai-support-ticket-analyzer\\src\\AiSupportTicketAnalyzer.Api\\Program.cs",
+              "RelativeToolTip": "src\\AiSupportTicketAnalyzer.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T16:50:18.995Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 53,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

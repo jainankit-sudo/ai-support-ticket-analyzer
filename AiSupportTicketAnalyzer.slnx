@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AiSupportTicketAnalyzer.Api/AiSupportTicketAnalyzer.Api.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/AiSupportTicketAnalyzer.Tests/AiSupportTicketAnalyzer.Tests.csproj">
+      <BuildDependency Project="src/AiSupportTicketAnalyzer.Api/AiSupportTicketAnalyzer.Api.csproj" />
+    </Project>
+  </Folder>
+</Solution>
